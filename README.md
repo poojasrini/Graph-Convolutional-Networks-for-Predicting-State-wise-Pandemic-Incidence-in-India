@@ -1,5 +1,6 @@
 # Predicting COVID-19 Incidence in Indian states using GNNs
 ---
+**Research Paper: https://ieeexplore.ieee.org/document/9760527** <br>
 
 ## Instructions to run:
 
