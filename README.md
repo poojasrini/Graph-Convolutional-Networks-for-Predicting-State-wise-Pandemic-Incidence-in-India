@@ -13,3 +13,14 @@
 
 * 2011 Indian Census Data
 https://en.wikipedia.org/wiki/2011_Census_of_India
+
+# Citation of the paper
+@INPROCEEDINGS{9760527, <br>
+  author={Sriraman, Siddharth and Manjunathan, R and Sivakumar, Nethraa and Pooja, S and Viswanath, Nikhil},<br>
+  booktitle={2022 2nd International Conference on Artificial Intelligence and Signal Processing (AISP)}, <br>
+  title={Graph Convolutional Networks for Predicting State-wise Pandemic Incidence in India}, <br>
+  year={2022},<br>
+  volume={},<br>
+  number={},<br>
+  pages={1-5},<br>
+  doi={10.1109/AISP53593.2022.9760527}}
